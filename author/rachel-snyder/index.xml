@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rachel Snyder | James Watling</title>
+    <link>https://jwatling.github.io/author/rachel-snyder/</link>
+      <atom:link href="https://jwatling.github.io/author/rachel-snyder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rachel Snyder</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jwatling.github.io/author/rachel-snyder/avatar_hu62b032a903568ee86ea57906ed346d2b_363811_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Rachel Snyder</title>
+      <link>https://jwatling.github.io/author/rachel-snyder/</link>
+    </image>
+    
+  </channel>
+</rss>

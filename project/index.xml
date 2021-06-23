@@ -2,30 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | James Watling</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jwatling.github.io/project/</link>
+      <atom:link href="https://jwatling.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jwatling.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://jwatling.github.io/project/</link>
     </image>
     
     <item>
-      <title>Micah Ashford</title>
-      <link>/project/micah-ashford/</link>
+      <title>Species ecology in thermal landscapes</title>
+      <link>https://jwatling.github.io/project/thermal-landscapes/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/project/micah-ashford/</guid>
-      <description>&lt;p&gt;Micah has degrees in Japanese from Portland State University and Fisheries and Wildlife Sciences from Oregon State University. He’s worked around the US as a wildlife tech, and for his MS project he is conducting a threats analysis on GPS-tagged sea turtles in the Gulf of Mexico in collaboration with Kristen Hart&amp;rsquo;s lab at USGS.&lt;/p&gt;
+      <guid>https://jwatling.github.io/project/thermal-landscapes/</guid>
+      <description>&lt;p&gt;The big idea underlying our thermal landscape work is that species-specific traits like tolerance to high temperatures, or thermal preferences, play a major role in determining how amphibians and reptiles respond to landscape and climate change. We often think of landscape change, like deforestation, as altering resource availability, or changing the strength of biotic interactions among species. While those things are true, deforestation also replaces relatively cool and thermally stable forest with relative warm but thermally variable types of land cover. For ectothermic species, whose body temperature largely correlates with air temperature, changes in the thermal landscape resulting from deforestation can be profound. The consequences of changing thermal landscapes can be especially problematic for tropical species that are adapted to a narrow range of relatively constant temperatures. Species that occur exclusively or mostly in forest often cannot &amp;lsquo;take the heat&amp;rsquo; in warmer parts of the landscape.&lt;/p&gt;
+&lt;p&gt;Our thermal landscape work often combines field, lab, and geospatial modeling approaches. We typically collect amphibians and reptiles while using standardized sampling methods to describe patterns of density and distribution in the field. Those animals are then used in non-lethal lab trials to determine species traits like high temperature tolerance (CTmax) or thermal preferences. We also monitor temperatures in the field using data loggers and thermal images.&lt;/p&gt;
+&lt;p&gt;Some of the insights we have gained as a result of our thermal ecology work are:&lt;/p&gt;
+&lt;p&gt;High temperature tolerance strongly predicts responses of tropical amphibians and reptiles to habitat modification and fragmentation.&lt;/p&gt;
+&lt;p&gt;Species with high temperature tolerance persist in small forest fragments or non-forested parts of the landscape, whereas species that cannot tolerate high temperatures are limited to large forest patches.&lt;/p&gt;
+&lt;p&gt;Thermal tolerance mediates edge effects for tropical amphibians and reptiles.&lt;/p&gt;
+&lt;p&gt;Sensitive species occur further from forest edges than species with higher thermal tolerance.&lt;/p&gt;
+&lt;p&gt;Thermally sensitive species may be filtered from what are currently suitable vegetation types as climate changes.&lt;/p&gt;
+&lt;p&gt;One species of tropical frog switches habitats as temperatures change along an elevation gradient.&lt;/p&gt;
+&lt;p&gt;The species is restricted to forest in the warm lowlands, but tracks its preferred temperature into agricultural clearings at cooler, higher elevations.&lt;/p&gt;
+&lt;p&gt;Density of a thermally-sensitive species of tropical salamander appears to be declining in warm, low-elevation portions of its range.&lt;/p&gt;
+&lt;p&gt;Density is negatively correlated with temperature along the elevational gradient, and contemporary populations at one site are less than half what they were 10 years previously.&lt;/p&gt;
+&lt;p&gt;Catalina&lt;/p&gt;
+&lt;p&gt;Sam &amp;amp; Blake&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
+      <title>Landscape ecology theory</title>
+      <link>https://jwatling.github.io/project/landscape-ecology/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <guid>https://jwatling.github.io/project/landscape-ecology/</guid>
       <description></description>
     </item>
     

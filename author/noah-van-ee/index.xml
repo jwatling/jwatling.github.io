@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noah van Ee | James Watling</title>
+    <link>https://jwatling.github.io/author/noah-van-ee/</link>
+      <atom:link href="https://jwatling.github.io/author/noah-van-ee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Noah van Ee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jwatling.github.io/author/noah-van-ee/avatar_hu04c1e3186f374eef39fc90beb5efc852_1183669_270x270_fill_lanczos_center_2.png</url>
+      <title>Noah van Ee</title>
+      <link>https://jwatling.github.io/author/noah-van-ee/</link>
+    </image>
+    
+  </channel>
+</rss>
