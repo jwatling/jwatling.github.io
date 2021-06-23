@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | James Watling</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Micah Ashford | James Watling</title>
+    <link>/tag/micah-ashford/</link>
+      <atom:link href="/tag/micah-ashford/index.xml" rel="self" type="application/rss+xml" />
+    <description>Micah Ashford</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>Micah Ashford</title>
+      <link>/tag/micah-ashford/</link>
     </image>
     
     <item>
@@ -19,14 +19,6 @@
       <guid>/project/micah-ashford/</guid>
       <description>&lt;p&gt;Micah has degrees in Japanese from Portland State University and Fisheries and Wildlife Sciences from Oregon State University. He’s worked around the US as a wildlife tech, and for his MS project he is conducting a threats analysis on GPS-tagged sea turtles in the Gulf of Mexico in collaboration with Kristen Hart&amp;rsquo;s lab at USGS.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
