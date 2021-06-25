@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andres Aponte Gutierrez | James Watling</title>
+    <link>https://jwatling.github.io/author/andres-aponte-gutierrez/</link>
+      <atom:link href="https://jwatling.github.io/author/andres-aponte-gutierrez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andres Aponte Gutierrez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jwatling.github.io/author/andres-aponte-gutierrez/avatar_hu3d949dfef07298d25f7969c379782e74_413311_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Andres Aponte Gutierrez</title>
+      <link>https://jwatling.github.io/author/andres-aponte-gutierrez/</link>
+    </image>
+    
+  </channel>
+</rss>
