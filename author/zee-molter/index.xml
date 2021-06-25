@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zee Molter | James Watling</title>
+    <link>https://jwatling.github.io/author/zee-molter/</link>
+      <atom:link href="https://jwatling.github.io/author/zee-molter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zee Molter</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jwatling.github.io/author/zee-molter/avatar_hu04c1e3186f374eef39fc90beb5efc852_1183669_270x270_fill_lanczos_center_2.png</url>
+      <title>Zee Molter</title>
+      <link>https://jwatling.github.io/author/zee-molter/</link>
+    </image>
+    
+  </channel>
+</rss>

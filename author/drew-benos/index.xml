@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drew Benos | James Watling</title>
+    <link>https://jwatling.github.io/author/drew-benos/</link>
+      <atom:link href="https://jwatling.github.io/author/drew-benos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Drew Benos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jwatling.github.io/author/drew-benos/avatar_hu102d5f3d6df0807f2e90692100d7214f_275766_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Drew Benos</title>
+      <link>https://jwatling.github.io/author/drew-benos/</link>
+    </image>
+    
+  </channel>
+</rss>
