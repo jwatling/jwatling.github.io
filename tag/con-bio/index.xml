@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Con Bio | James Watling</title>
+    <link>https://jwatling.github.io/tag/con-bio/</link>
+      <atom:link href="https://jwatling.github.io/tag/con-bio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Con Bio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jwatling.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Con Bio</title>
+      <link>https://jwatling.github.io/tag/con-bio/</link>
+    </image>
+    
+    <item>
+      <title>Conservation Biology</title>
+      <link>https://jwatling.github.io/classes_taught/bl_419/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jwatling.github.io/classes_taught/bl_419/</guid>
+      <description>&lt;p&gt;Talk about the class here&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
