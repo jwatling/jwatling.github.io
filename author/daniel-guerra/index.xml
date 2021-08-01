@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Guerra | James Watling</title>
+    <link>https://jwatling.github.io/author/daniel-guerra/</link>
+      <atom:link href="https://jwatling.github.io/author/daniel-guerra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Guerra</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jwatling.github.io/author/daniel-guerra/avatar_hu3e069c96dfdd4dcb4886fd1a13103fa9_473640_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Daniel Guerra</title>
+      <link>https://jwatling.github.io/author/daniel-guerra/</link>
+    </image>
+    
+  </channel>
+</rss>
