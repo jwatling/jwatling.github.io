@@ -250,11 +250,11 @@ Hudson LN et al. (&lt;strong&gt;Watling JI&lt;/strong&gt; one of 200+ authors). 
       <link>https://jwatling.github.io/classes_taught/bl_159/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://jwatling.github.io/classes_taught/bl_159/</guid>
-      <description>&lt;p&gt;This is an introductory course that builds from what students have learned about sub-organismal biology (Principles I) and organismal biology (Principles II). We spend 15 weeks surveying the diversity of life on Earth, and the evolutionary processes that have generated the tremendous biological diversity that surrounds us.&lt;/p&gt;
+      <description>&lt;p&gt;Check out a couple of example podcasts from Fall 2020 &lt;a href=&#34;https://jwatling.github.io/uploads/final%20podcast.mp3&#34; target=&#34;_blank&#34;&gt;here &lt;/a&gt; and &lt;a href=&#34;https://jwatling.github.io/uploads/BL%20159%20Podcast.mp3&#34; target=&#34;_blank&#34;&gt; here &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is an introductory course that builds from what students have learned about sub-organismal biology (Principles I) and organismal biology (Principles II). We spend 15 weeks surveying the diversity of life on Earth, and the evolutionary processes that have generated the tremendous biological diversity that surrounds us.&lt;/p&gt;
 &lt;p&gt;We spend quite a bit of time talking about traits that define clades - broad groups of species evolved from a common ancestor. But what I really want students to get from this course is an understanding for how much humans rely on biodiversity for our well-being. Biodiversity influences our lives in profound ways-it is the source of every single calorie every human has ever consumed, it is a largely unexplored source of medicine, and it inspires consumer products that we all use (velcro was invented to mimic the way plant seeds attach to your pants when you walk through the woods). Humans also have an innate sense of biophilia, or affinity for nature: US national parks receive the equivalent of the entire countries population in visits per year, and more Americans visit zoos and aquariums than attend all professional sporting events combined.&lt;/p&gt;
 &lt;p&gt;The course is divided into seven modules of about two weeks each. Each class is focused on a particular topic that feeds into the overarching module. Before most classes students are asked to do some reading and watch lecture and other videos online. These readings and videos are the primary source of foundational knowledge, like key vocabulary and important concepts. Think of those videos and readings as homework&amp;ndash;students focus on them outside of class, and come equipped to each class meeting armed with their new knowledge base. In class, we apply that new knowledge in different ways&amp;ndash;sometimes we will use problem sets, other times a short activity, or a discussion. Class is also a time to ask questions and clarify points of confusion. We also use the Canvas discussion boards as a venue for Q &amp;amp; A.&lt;/p&gt;
 &lt;p&gt;The signature assignment (the big one worth the most points!) in BL 159 is a biodiversity-themed podcast that students produce on a topic of their choice. All scientists communicate their work in different formats. Traditionally, the three primary formats were journal articles, poster presentations, and scientific talks. Those formats are very focused on communicating science to other scientists. That’s an important skill to have, for sure. But communicating science to non-scientists is important too—now more than ever. Science communication is in high demand. The challenge in this assignment is to create an engaging, informative podcast targeted at a non-expert audience. This is an opportunity to not only learn a lot about a particular topic, but actually create new content for other people to learn from. Along the way, students develop some science communication skills, and leave this class with a tangible product that they can talk about and share when applying for internships and jobs.&lt;/p&gt;
-&lt;p&gt;Check out a couple of example podcasts from Fall 2020 &lt;a href=&#34;https://jwatling.github.io/uploads/final%20podcast.mp3&#34; target=&#34;_blank&#34;&gt;here &lt;/a&gt; and &lt;a href=&#34;https://jwatling.github.io/uploads/BL%20159%20Podcast.mp3&#34; target=&#34;_blank&#34;&gt; here &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -451,7 +451,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-179536824&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-812743965&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -461,7 +461,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-179536824&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-812743965&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
