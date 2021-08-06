@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Troy Neptune | James Watling</title>
+    <link>https://jwatling.github.io/author/troy-neptune/</link>
+      <atom:link href="https://jwatling.github.io/author/troy-neptune/index.xml" rel="self" type="application/rss+xml" />
+    <description>Troy Neptune</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jwatling.github.io/author/troy-neptune/avatar_hu9bd6279473fa8b3b57439e0f1afeb139_1163257_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Troy Neptune</title>
+      <link>https://jwatling.github.io/author/troy-neptune/</link>
+    </image>
+    
+  </channel>
+</rss>
