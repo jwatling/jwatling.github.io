@@ -167,11 +167,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-<<<<<<< HEAD
-&lt;div id=&#34;chart-913542786&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-=======
-&lt;div id=&#34;chart-916257843&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
->>>>>>> d4b95870fd05f8345c976c90d50d97966400eaa7
+&lt;div id=&#34;chart-849532167&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -181,11 +177,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-<<<<<<< HEAD
-        Plotly.plot(&#39;chart-913542786&#39;, chart.data, chart.layout, {responsive: true});
-=======
-        Plotly.plot(&#39;chart-916257843&#39;, chart.data, chart.layout, {responsive: true});
->>>>>>> d4b95870fd05f8345c976c90d50d97966400eaa7
+        Plotly.plot(&#39;chart-849532167&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
