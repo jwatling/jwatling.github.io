@@ -276,7 +276,7 @@ The variance of the distribution is $\sigma^{2}$.
       <link>https://jwatling.github.io/project/thermal-landscapes/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://jwatling.github.io/project/thermal-landscapes/</guid>
-      <description>&lt;p&gt;The big idea underlying our thermal landscape work is that species-specific traits like tolerance to high temperatures, or thermal preferences, play a major role in determining how amphibians and reptiles respond to landscape and climate change. We often think of landscape change, like deforestation, as altering resource availability, or changing the strength of biotic interactions among species. While those things are true, deforestation also replaces relatively cool and thermally stable forest with relative warm but thermally variable types of land cover. For ectothermic species, whose body temperature largely correlates with air temperature, changes in the thermal landscape resulting from deforestation can be profound. The consequences of changing thermal landscapes can be especially problematic for tropical species that are adapted to a narrow range of relatively constant temperatures. Species that occur exclusively or mostly in forest often cannot &amp;lsquo;take the heat&amp;rsquo; in warmer parts of the landscape.&lt;/p&gt;
+      <description>&lt;p&gt;The big idea underlying our thermal landscape work is that species-specific traits like tolerance to high temperatures, or thermal preferences, play a major role in determining how amphibians and reptiles respond to landscape and climate change. We often think of landscape change, like deforestation, as altering resource availability, or changing the strength of biotic interactions among species. While those things are true, deforestation also replaces relatively cool and thermally stable forest with relatively warm but thermally variable types of land cover. For ectothermic species, whose body temperature largely correlates with air temperature, changes in the thermal landscape resulting from deforestation can be profound. The consequences of changing thermal landscapes can be especially problematic for tropical species that are adapted to a narrow range of relatively constant temperatures. Species that occur exclusively or mostly in forest often cannot &amp;lsquo;take the heat&amp;rsquo; in warmer parts of the landscape.&lt;/p&gt;
 &lt;p&gt;Our thermal landscape work often combines field, lab, and geospatial modeling approaches. We typically collect amphibians and reptiles while using standardized sampling methods to describe patterns of density and distribution in the field. Those animals are then used in non-lethal lab trials to determine species traits like high temperature tolerance (CTmax) or thermal preferences. We also monitor temperatures in the field using data loggers and thermal images.&lt;/p&gt;
 &lt;p&gt;Some of the insights we have gained as a result of our thermal ecology work are:&lt;/p&gt;
 &lt;p&gt;• High temperature tolerance strongly predicts responses of tropical amphibians and reptiles to habitat modification and fragmentation.&lt;/p&gt;
@@ -462,7 +462,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-723185964&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-653498271&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -472,7 +472,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-723185964&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-653498271&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
