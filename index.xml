@@ -129,9 +129,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>2020-present</title>
-      <link>https://jwatling.github.io/all_papers/2020-present/</link>
+      <link>https://jwatling.github.io/all_papers/2020-2026/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://jwatling.github.io/all_papers/2020-present/</guid>
+      <guid>https://jwatling.github.io/all_papers/2020-2026/</guid>
       <description>&lt;p&gt;2026&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1r3y495_mDEZlToOHcNhyxveqh30swj_B/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Valderrama Robles SC, Russell MG, Anthony CD &amp;amp; &lt;strong&gt;Watling JI&lt;/strong&gt;. Effect of temperature acclimation period on upper thermal tolerance in a terrestrial salamander. &lt;em&gt;PeerJ&lt;/em&gt; 14:e20775.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;2025&lt;/p&gt;
@@ -468,7 +468,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-358497621&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-932168475&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -478,7 +478,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-358497621&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-932168475&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
