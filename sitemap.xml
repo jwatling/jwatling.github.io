@@ -2,8 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jwatling.github.io/all_papers/2000-2009/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jwatling.github.io/all_papers/2010-2019/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jwatling.github.io/courses/example/python/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jwatling.github.io/all_papers/2020-present/</loc>
+    <lastmod>2026-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jwatling.github.io/courses/example/visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
@@ -20,17 +29,8 @@
     <loc>https://jwatling.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jwatling.github.io/all_papers/2020-2026/</loc>
-    <lastmod>2026-08-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jwatling.github.io/all_papers/</loc>
     <lastmod>2026-08-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jwatling.github.io/all_papers/2000-2009/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jwatling.github.io/all_papers/2010-2019/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jwatling.github.io/classes_taught/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
@@ -173,6 +173,8 @@
   </url><url>
     <loc>https://jwatling.github.io/author/blake-dixon/</loc>
   </url><url>
+    <loc>https://jwatling.github.io/author/carly-anderson/</loc>
+  </url><url>
     <loc>https://jwatling.github.io/author/catalina-valderrama-robles/</loc>
   </url><url>
     <loc>https://jwatling.github.io/author/consuelo-de-las-nieves-alarcon-rodriguez/</loc>
@@ -190,6 +192,8 @@
     <loc>https://jwatling.github.io/author/julia-laterza-barbosa/</loc>
   </url><url>
     <loc>https://jwatling.github.io/author/micah-ashford/</loc>
+  </url><url>
+    <loc>https://jwatling.github.io/author/molly-russell/</loc>
   </url><url>
     <loc>https://jwatling.github.io/author/osmary-medina-baez/</loc>
   </url><url>
